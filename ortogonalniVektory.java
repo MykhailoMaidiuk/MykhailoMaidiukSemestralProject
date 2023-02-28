@@ -39,7 +39,7 @@ public class ortogonalniVektory {
 			System.out.println();
 			
 		        System.out.println("Vector count(if you want to exit tap any negative number or 0))");
-		        
+		        Msize = sc.nextInt();
 		        
 		        
 
